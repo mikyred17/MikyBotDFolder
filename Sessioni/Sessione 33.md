@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -46,21 +52,20 @@ Il rituale fu un successo, ma non nel modo corretto: evocò un’entità che non
 Questa entità si rivelò con un nome che a Rodhrass non osano nominare, e piegò l’intera Rodhrass finché non servì l’intervento degli Azuthar per sconfiggerla.  
 
 > [!NOTE] 
-> L'entita che [[Enclave di Rodhrass]] non osa nominare è l'innominata della [[Profezia di Zubel]] ?
+> L'entita che [[Enclave di Rodhrass]] non osa farbe il nome è l'innominata della [[Profezia di Zubel]] ?
 
 Dopo averla neutralizzata, l’entità abbandonò [[Vanda]] e, per evitare che la cosa si ripetesse, le imposero un sigillo arcano sulla schiena per limitarne il potere magico e impedirle di essere posseduta di nuovo.
 
 Chiedo se l’entità fosse una delle divinità occulte. Lui risponde che l’informazione è riservata, ma non si tratta di una di quelle quattro.  
-[[Thalrik]] chiede il nome della quarta: lui risponde che è Liira.
+[[Thalrik]] chiede il nome della quarta: lui risponde che è [[Liira]].
 
 ### Chiachere
 
 [[Thalrik]] prosegue dicendo che, se dovessero voler condividere informazioni su [[Vanda]], sarebbero disposti a scambi di informazioni. Il mago risponde che le strade con Rodhrass sono sempre aperte alle informazioni e, per dimostrare che l’enclave è disposta a condividere la conoscenza, ci rivela il nome e la posizione delle anomalie.
 
-Scrive Arakiel sul DS:
-
-1. Diluvio di Velinor:
-2. [...]
+- [[La Veglia di Thareon]]  - A nord di [[Eldoria]].
+- [[Il Crogiolo di Vethkar]] - A sud di [[Draconia]].
+- [[Il Diluvio di Vellinor]]    - 
 
 Poi chiede se e a conoscenza del motivo per cui Rhyzman era venuto dai duergar.
 
@@ -110,12 +115,9 @@ Lui chiede 9 mo e ci dà la posizione.
 Andiamo lì e chiediamo un consulto.  
 Lui chiede 100 mo, ma [[Thalrik]] lo convince ad accettare 20 mo di inchiostro magico. 
 Poi identifica il sigillo come falso, ma di ottima qualità.  
-Riusciamo a vendere il sigillo per 230 mo, poi compro gli strumenti da falsario.
+Riusciamo a vendere il sigillo per 230 mo, poi compro gli strumenti da falsario. 
 
-Quindi [[vanda]] mentiva quando diceva di essere in combutta con il [[Sancta fides]].
-
-**Debito:**  
-319 + 30 − 125 = ?
+Quindi [[vanda]] mentiva quando diceva di essere in combutta con il [[Sancta fides]]. 
 
 ### Biblioteca e porto
 
@@ -128,15 +130,3 @@ Andiamo in biblioteca: avviso mentalmente gli altri.
 Torniamo in bottega e siamo pronti a partire.
 
 ## Fine Sessione
-
-
-## Elenco
-
-#### Personaggi
-- .
-
-#### Luoghi
-- .
-
-#### Oggetti
-- .

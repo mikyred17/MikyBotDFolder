@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -86,7 +92,7 @@ Dentro ci presentiamo nelle accettazioni, vari funzionari e un tizio che sembra 
 
 Lui ci da uno sguardo veloce si gira e ci chiede di seguirlo, non curandosi della nostra razza, ci porta da uno scriba e ci dice di ascoltarlo.
 
-Prima di andarsene Kael chiede il nome e il suo ruolo lui risponde e dice che si chiama [[Magister Darius Feremont]] e lui e la legge nel colosseo essendo il curatore, poi ci lascia allo scriba.
+Prima di andarsene Kael chiede il nome e il suo ruolo lui risponde e dice che si chiama [[Darius Feremont]] e lui e la legge nel colosseo essendo il curatore, poi ci lascia allo scriba.
 
 Lo scriba ci fionda di informazioni:
 1. Nome completo: Nessuno ha mentito, Jin ha fatto solo un po in esitazione.
@@ -95,19 +101,17 @@ Lo scriba ci fionda di informazioni:
 4. Classe e armamenti: Nessuno ha mentito.
 5. Come siete messi in salute: tutti ok
 
-Poi dopo un po di discussione che decidiamo se fare la versione letale o non, dopo una lunga discussione ritorna il [[Magister Darius Feremont]] e ci chiede una risposta lanciamo la moneta per vedere cosa esce, alla fine facciamo la non letale, lui ci dice di dare una risposta prima di entrare dentro per ora firmate il documento cosi siete liberi.
+Poi dopo un po di discussione che decidiamo se fare la versione letale o non, dopo una lunga discussione ritorna il [[Darius Feremont]] e ci chiede una risposta lanciamo la moneta per vedere cosa esce, alla fine facciamo la non letale, lui ci dice di dare una risposta prima di entrare dentro per ora firmate il documento cosi siete liberi.
+
+#### Messaggio a Deymar
+Quando usciamo dal colosseo mando un messaggio a Deymar.
+
+Io:
+> Noi siamo in citta al colosseo ci vuoi venire a trovare qui.
+
+Lui:
+> No vi aspetto alla lanterna rossa ho novita molto importanti. 
 
 ## Fine Sessione
 
 Davanti allo scriba del colosseo.
-
-## Elenco
-
-#### Personaggi
-- .
-
-#### Luoghi
-- .
-
-#### Oggetti
-- .

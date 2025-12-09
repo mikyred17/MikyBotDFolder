@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -7,21 +13,24 @@ Rimasti al [[colosseo]], firmiamo il documento e usciamo, fuori iniziamo a veder
 
 ##### Spolarium
 
-Arrivati a questa zona separata dal colosseo troviamo un piccolo edificio dove sono presenti armadietti e varie casse con armi molto comuni ( prendo 1 freccia ).
+Arrivati a questa zona separata dal colosseo troviamo un piccolo edificio dove sono presenti armadietti e varie casse con armi comuni ( prendo 1 freccia ).
 
 Decidiamo quindi di aspettare li dopo un po di tempo arriva un uomo con una barba un cappello con una piuma festito leggero e al fianco un corno (megafono).
 
-si presenta [[Baltor]] e con voce violenta ci fa:
-Chi siete che cosa ci fate qui.
+si presenta [[Balthor]] e con voce violenta ci fa:
+> Chi siete che cosa ci fate qui.
 
 Rispondo mostrando le targhette in bronzo che ci hanno dato ai registri, e lui dice:
-Si si, state tranquilli so chi siete.
+> Si si, state tranquilli so chi siete.
 
 Dopo un breve chiacchera arriva il 5o partecipante...
 
-##### Descrizione di Eberron (Ardent)
+#### Descrizione di Eberron (Ardent)
 
+Ha il volto rosato, solcato da scanalature, gli occhi hanno una luce blu, mani e piedi sono scalzi e si nota che sono fatti di meccanismi.
+Veste con un mantello bianco piuttosto sporco, e tiene una sacca dello stesso colore dietro la schiena, mentre la sistema 
 
+In quello che si mostra ricorda alcune protesi viste ad Aresil.
 
 ##### Chiacchere con Eberron
 
@@ -37,7 +46,7 @@ Poi facciamo un giro per capire quali sono le nostre abilita.
 
 
 
-##### Regole del colosseo
+#### Regole del colosseo
 - NON toccare gli spettatori.
 - Nessuno scappa si esce vincitori e sconfitti.
 - Chi cade cade, chi si rialza lo faccia con onore.
@@ -46,7 +55,7 @@ Poi facciamo un giro per capire quali sono le nostre abilita.
 - Alla fine di ogni sfida ci sono 10min di pausa e 1 solo riposo breve (1h).
 - Poi ci da una pozione e ci dice che serve per non andare a terra.
 
-Il presentatore sta ingnorando [[Eberron]], e ci fa capire che e un costrutto.
+Il presentatore sta ingnorando [[Eberon]], e ci fa capire che e un costrutto.
 
 una breve parlata
 
@@ -58,6 +67,7 @@ Presenta al publico le 4 figure
 - Il consigliere del re: **Ser Calvareth**
 - Il Lord del commercio di ravenholm: **Lord Rathgaron**.
 - L'egemone della [[Aquila Dorata]]: **Endevor**.
+- Ci sono tutti ma non il RE?
 
 #### L'entrata descrizione
 - Thalrik (Il Duergar): 
@@ -87,14 +97,14 @@ Presenta al publico le 4 figure
 
 
 #### Arena 
-![[image.webp]]
+![[Foto del Colosseo.jpg]]
 
-Dopo una descrizione del mostro nomina il Girallon Grallon.
+Dopo una descrizione del mostro nomina il Ghirallon.
 
-Fine com
+Fine combattimento, [[Eberon]] si propone di affilare le nostre lame nell'attesa del prossimo scontro, abbiamo 10min.
 
 ## Fine Sessione
-
+Finita il 1° Fight.
 
 ## Elenco
 

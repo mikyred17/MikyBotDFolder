@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 > [!NOTE] Note
 > Queste note sono della giornato ad Ravenholm di Jin e Zubel
@@ -96,7 +102,7 @@ Con un tono leggermente più serio, spiega:
 Poco dopo, [[Mira]] si congeda frettolosamente, ricordando loro che ha una lezione in corso e non può trattenersi oltre.
 
 #### L'Ospess
-Dopo essersi congedati dall’Accademia, [[Jin]] e [[Zubel]] decidono di andare all’**Hospess**, il principale centro di cure della città. All’ingresso, si presentano al banco dell’accettazione, dove una donna.
+Dopo essersi congedati dall’Accademia, [[Jin]] e [[Zubel]] decidono di andare all’[[Hospes]], il principale centro di cure della città. All’ingresso, si presentano al banco dell’accettazione, dove una donna.
 
 Chiede con tono monotono, senza neanche sollevare troppo lo sguardo.
 > Avete urgenze?

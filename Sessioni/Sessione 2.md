@@ -1,3 +1,9 @@
+---
+ss: ss
+desc:
+tags:
+  - ss
+---
 ## Eventi
 
 ### Arrivo alla locanda
@@ -22,7 +28,7 @@ Tornato al tavolo, ci sediamo in attesa. Intorno a noi, le conversazioni vanno a
 > “Non ci penso proprio…” – “Dai… Pagano bene…” – “Si ma dovrai rispondere ai loro ordini, dovrai sottometterti alle loro regole… Mi rifiuto” – “Ma è la nostra occasione… Non farmi questo… Se mi unisco solo io poi non potremmo più viaggiare insieme…” – “Esatto, e ne rimarrei offeso… Io e te siamo partiti con l’intento di andare a caccia di tesori… Hai pensato a cosa potrebbe succedere se hai alle spalle una Gilda come quella? Pensi te li lascerebbero?” – “Cavolo, non ci avevo pensato. Però dovremmo informarci, magari danno dei premi, o magari ce li lasciano…” – “Certo ne sono sicuro guarda…” – “Però immagina, membri ufficiali della Gilda più importante del Regno, sai quante porte potrebbero aprirsi? Avremmo del potere sociale…” – “Mi dispiace, ma non mi unirò a questa _[[Aquila Dorata]]_…”
 
 **Mormorii Manufatto**: 
-> “La smetti di essere paranoico e di guardare fisso l’ingresso?” – “Paranoico? Questo Drimmocs o come cavolo si chiama sta attirando fin troppi forestieri…” – “E quindi? Di cosa hai paura? A meno che tu non sia un orco con tra le mani questo Manufatto, non vedo perché preoccuparsene… E poi sei a [[Ravenholm]], nelle _mani della Triade_… Puoi dormire sonni tranquilli…”
+> “La smetti di essere paranoico e di guardare fisso l’ingresso?” – “Paranoico? Questo **Drimmocs** o come cavolo si chiama sta attirando fin troppi forestieri…” – “E quindi? Di cosa hai paura? A meno che tu non sia un orco con tra le mani questo Manufatto, non vedo perché preoccuparsene… E poi sei a [[Ravenholm]], nelle _mani della Triade_… Puoi dormire sonni tranquilli…”
 
 **Mormorii Bordello**: 
 > “Puzzi di sesso…” – “Semmai profumo di belle donne” – “No, puzzi di sesso, dovresti andare a lavarti prima di cenare con me” – “Che pesantezza… Perché non ci fai un salto, ho visto anche dei bei ragazzi…” – “Non è ciò che certo, lo sai, quante volte devo dirtelo?” – “Beh, allora ti farà piacere sapere che _ho sentito di un trattamento speciale, pare ci sia una donna che si limita a scambiare chiacchiere con i clienti_… Forse è proprio ciò di cui hai bisogno, aprirti con qualcuno” – “Sto bene da solo, ora vai a pagare”

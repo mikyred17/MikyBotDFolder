@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 ## Eventi
 ### Inizio della Giornata
 

@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 ## Eventi
 
 #### Partenza e incontro con le guardie di Eldoria

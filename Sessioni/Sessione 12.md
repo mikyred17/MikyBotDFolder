@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 ## Eventi
 
 #### Dopo il combattimento contro gli Orog

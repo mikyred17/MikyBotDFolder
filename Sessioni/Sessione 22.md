@@ -1,7 +1,13 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
-### La Guarnigione
+### La Guarnigione - 25/06/1780
 
 Dopo che [[Jin]] finisce di parlare con il comandante di [[Hargast]] ([[Tavros]]) esce e ci racconta cosa era quella [[La Nebbia|Droga]] e che il nano restera in prigione per un ciclo lunare (un mese circa, da 18/06/1780).
 
@@ -25,8 +31,6 @@ Decidiamo di dividerci per vendere le armi e controllare la pozione viola per po
 
 Io e [[Thalrik]] vendiamo le armi e lui compra del miele per il mimic, mentre [[Jin]] e [[Zubel]],
 una volta finito ci raccontano che la pozione e una pozione di cura.
-
-
 
 ## Fine Sessione
 Finiamo a poco da [[Aresil]] mentre decidiamo cosa fare con il sacchetto.

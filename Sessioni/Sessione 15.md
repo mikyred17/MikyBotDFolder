@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -25,7 +31,8 @@ Poi ci descrive i simboli che ha visto, aiutandosi con qualche magia illusoria. 
 
 Dopo un paio d’ore arriva il tramonto. Ci accampiamo e iniziamo a discutere sull’assalto ad [[Arenthia]]: forse quei quattro appartengono davvero al Sancta. [[Thalrik]] inizia a leggere gli [[appunti di Vanda]] e ne parliamo con [[Deymar]].
 
-[[Deymar]] chiede di vedere il manufatto. [[Jin]] glielo consegna. Dopo averlo osservato, girato e toccato, si sofferma sulla scritta incisa sopra. Dopo un lungo sospiro, la legge ad alta voce:  **“Per non dimenticare.”**
+[[Deymar]] chiede di vedere il manufatto. [[Jin]] glielo consegna. Dopo averlo osservato, girato e toccato, si sofferma sulla scritta incisa sopra. Dopo un lungo sospiro, la legge ad alta voce:  
+**“Per non dimenticare.”**
 
 ### Libri
 
@@ -41,7 +48,7 @@ Mentre leggiamo i nostri testi
 
 Poi parliamo delle nostre motivazioni. La vicinanza e la condivisione ci fanno rilassare e aprire un po’ di più con gli altri. [[Zubel]] racconta di avere una profezia incisa nel corpo, scritta sotto forma di costellazioni. [[Jin]] condivide di aver avuto una visione di un disastro imminente, che ha collegato agli artefatti.
 
-L'angelo *Mykiel* gli e apparso in sogno, quando [[Jin]] lo guarda, *Mykiel* indica dietro di lui e dice "**Il Ohmen**", [[Jin]] si gira e nota 4 figure a cavallo, poi una tempesta che avanza, davanti ad essa un esercito con fiaccole sacre, ma all'avanzare della tempesta le fiaccole si spengono, poi la tempesta si abbatte davanti a [[Jin]] ma si ferma come bloccata da un muro invisibile, poi si rivede in armatura e con il suo cammino le fiaccole si riaccendono.
+L'angelo *Mykiel* gli e apparso in sogno, quando [[Jin]] lo guarda, *Mykiel* indica dietro di lui e dice "**Ill Ohmen**", [[Jin]] si gira e nota 4 figure a cavallo, poi una tempesta che avanza, davanti ad essa un esercito con fiaccole sacre, ma all'avanzare della tempesta le fiaccole si spengono, poi la tempesta si abbatte davanti a [[Jin]] ma si ferma come bloccata da un muro invisibile, poi si rivede in armatura e con il suo cammino le fiaccole si riaccendono.
 
 
 ## Fine Sessione

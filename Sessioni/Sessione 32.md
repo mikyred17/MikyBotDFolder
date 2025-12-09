@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -173,14 +179,3 @@ Poi [[Thalrik]] racconta che ci siamo scontrati con [[Vanda]]...
 
 ## Fine Sessione
 Ci siamo lasciati che [[Thalrik]] ha detto il nome di [[vanda]].
-
-## Elenco
-
-#### Personaggi
-- .
-
-#### Luoghi
-- .
-
-#### Oggetti
-- .

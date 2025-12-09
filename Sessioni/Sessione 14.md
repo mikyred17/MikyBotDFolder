@@ -1,3 +1,9 @@
+---
+ss:
+desc:
+tags:
+  - ss
+---
 
 ## Eventi
 
@@ -9,6 +15,7 @@ Pelle rossa e occhi completamente neri a cavallo e armati. Il loro capo è pales
 Parla in infernale con Zubel. Vuole sapere se abbiamo recuperato il manufatto e gli è grato per aver salvato suo figlio. Zubel resta il più vago possibile dicendo che siamo venuti a cercare il compagno di Roland e non abbiamo il manufatto.
 Recuperano il corpo di Vanda appena seppellito, con al speranza di ottenere più informazioni dalla morta tramite la magia (di cui però non dispone).
 Si offrono di scortarci ad Arenthia e ci propongono di rincontrarci in un luogo più sicuro, Hargast, tra qualche giorno.
+Poi ci dice che fa parte dell'ordine degli Xair.
 
 ### Verso Arenthia
 Nelle 2 ore di viaggio fino ad Arenthia Thalrik legge gli [[Estratti del Cosmocron]], Kyrel il [[Santuario delle Lacrime]] (libro sugli elfi). A metà strada lasciamo i corpi degli orchi nella savana, lontano dalla strada.

@@ -1,3 +1,9 @@
+---
+ss: ss
+desc:
+tags:
+  - ss
+---
 ## Eventi
 
 ### Evento alla Locanda della Crocevia
